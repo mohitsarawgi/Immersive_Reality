@@ -1,57 +1,14 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/homeverse)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/homeverse?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/homeverse?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/6HZ4nZmU_pE?style=social)](https://youtu.be/6HZ4nZmU_pE)
+#immersive_reality
+The AR/VR platform for real estate transforms the house-hunting experience by offering a realistic and immersive virtual exploration of properties. Real estate agents can engage customers with a more captivating and detailed presentation, leading to increased sales and customer satisfaction. Buyers gain the freedom to explore homes remotely, without the need for physical visits or appointments. They can personalize their viewing experience by adjusting lighting, furniture, and decor, while also leaving notes and feedback. This platform enhances convenience and enjoyment in the process of finding and selling houses, benefitting all involved parties.
 
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
+# Solution: Creating an Immersive Experience for Visualizing Real Estate Properties
 
-  <h2 align="center">Homeverse - Real estate website</h2>
+The application serves as a bridge between sellers and buyers. If a person wants to sell a property, they can capture images of the house. Using our app, they can effortlessly convert these house images into AR models.
 
-  Homeverse is fully responsive Real estate website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+Buyers can utilize these models to gain a more immersive view of the property.
 
-  <a href="https://codewithsadee.github.io/homeverse/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![homeverse Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-![homeverse Mobile Demo](./readme-images/mobile.png "Mobile Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Homeverse** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/homeverse.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/homeverse.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+# Tech Stack
+1) unity 2021.3f
+2) Vuforia Engine
+3) Machine Learning Model for converting 2d to 3d Avatar -> https://medium.com/vitalify-asia/create-3d-model-from-a-single-2d-image-in-pytorch-917aca00bb07
+   
